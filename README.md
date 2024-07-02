@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://fb.com/dinithi rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinithi rajapaksha" height="30" width="40" /></a>
   <a href="https://instagram.com/dinithir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinithir_" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/dinithi-rajapaksha-7a6754312" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="dinithi rajapaksha" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/dinithi-rajapaksha-7a6754312/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="dinithi rajapaksha" height="30" width="40"/></a>
 </p>
 <br>
 
